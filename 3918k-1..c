@@ -5,7 +5,7 @@ main()
 	 FILE *p;
 	 char data[1000];
 	 
-	 p = fopen("D:/kkb.txt","w");
+	 p = fopen("D:/kkb1.txt","w");
 	 
 	 if(p == NULL)
 	 {
